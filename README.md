@@ -2,8 +2,7 @@
 
 # Qiita記事リポジトリ
 
-[Qiita](https://qiita.com/hidao80) に投稿した記事を管理するリポジトリです。  
-Qiita CLIを使って `articles/` 配下のMarkdownファイルを同期・管理しています。
+[Qiita](https://qiita.com/hidao80) に投稿した記事を管理するリポジトリです。
 
 ## 記事カテゴリ
 
