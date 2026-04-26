@@ -1,3 +1,5 @@
+![hero image](./img/hero_image.webp)
+
 # Qiita記事リポジトリ
 
 [Qiita](https://qiita.com/hidao80) に投稿した記事を管理するリポジトリです。  
